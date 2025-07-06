@@ -12,6 +12,6 @@
 
 ### 📫 Reach me at:
 - ✉️ Email: betagamaalpha777@gmail.com
-- 💼 [LinkedIn](www.linkedin.com/in/ghulam-yazdani-351260325)
+- 💼 [LinkedIn](https://linkedin.com/in/ghulam-yazdani-351260325)
 
 ⭐ Let’s build something awesome!
