@@ -6,7 +6,7 @@
 ✨ Love to build, break, and learn things!
 
 ### 🛠️ Skills
--React • Web (HTML/CSS/JS)
+- React • Web (HTML/CSS/JS)
 - React Native • App 
 - Learning: Node.js & Express
 
