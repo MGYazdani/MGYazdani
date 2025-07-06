@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, MD Ghulam Yazdani
 
-<!--
-**MGYazdani/MGYazdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd year B.Tech (CSE) student  
+👨‍💻 App & Web Developer  
+🚀 Currently learning backend development  
+✨ Love to build, break, and learn things!
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+-React • Web (HTML/CSS/JS)
+- React Native • App 
+- Learning: Node.js & Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Reach me at:
+- ✉️ Email: betagamaalpha777@gmail.com
+- 💼 [LinkedIn](www.linkedin.com/in/ghulam-yazdani-351260325)
+
+⭐ Let’s build something awesome!
